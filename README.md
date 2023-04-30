@@ -212,6 +212,8 @@ Projemiz, ihtiyaçlar doğrultusunda sürekli adapte olabilen bir yaklaşım ben
 
 7.İyileştirme önerileri ve geri bildirimler:
 
+8.README dosyasının oluşturulması ve güncellenmesi
+
 
 ## KATKIDA BULUNMA
 Proje geliştirme sürecinde sizin gibi yazılımcıların, yatırımcıların ve destekçilerin katılımını ve desteğini bekliyoruz. Bu projeye katkıda bulunarak hem kendinizi geliştirebilir, hem de projemizin başarısına katkı sağlayabilirsiniz.
