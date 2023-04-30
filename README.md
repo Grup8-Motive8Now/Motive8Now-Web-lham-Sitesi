@@ -12,7 +12,7 @@
 ## İÇİNDEKİLER
 * [GİRİŞ](https://github.com/Grup8-Motive8Now/Motive8Now-Web-Sitesi/blob/main/README.md#gi%CC%87ri%CC%87%C5%9F)
   * [Proje Amacı](https://github.com/Grup8-Motive8Now/Motive8Now-Web-Sitesi/blob/main/README.md#proje-amac%C4%B1)
-  * [Proje Hedefleri](https://github.com/Grup8-Motive8Now/Motive8Now-Web-Sitesi/edit/main/README.md#proje-hedefleri)
+  * [Proje Hedefleri](https://github.com/Grup8-Motive8Now/Motive8Now-Web-Sitesi/blob/main/README.md#proje-hedefleri)
   * [Kullanıcılar İçin Faydalar](https://github.com/Grup8-Motive8Now/Motive8Now-Web-Sitesi/edit/main/README.md#kullan%C4%B1c%C4%B1lar-i%CC%87%C3%A7in-faydalar)
 * [PROJE GELİŞTİRME SÜREÇLERİ](https://github.com/Grup8-Motive8Now/Motive8Now-Web-Sitesi/edit/main/README.md#proje-geli%CC%87%C5%9Fti%CC%87rme-s%C3%BCre%C3%A7leri%CC%87)
   * [İhtiyaç Analizi](https://github.com/Grup8-Motive8Now/Motive8Now-Web-Sitesi/edit/main/README.md#i%CC%87htiya%C3%A7-analizi)
