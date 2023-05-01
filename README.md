@@ -199,30 +199,43 @@ Projemiz, ihtiyaçlar doğrultusunda sürekli adapte olabilen bir yaklaşım ben
 
 ## EKİP ÇALIŞMASI VE KATKILAR
 ### Ekip Üyeleri ve Yetkinlikleri
-Evin AYDİN ÜLGEN :
+**Evin AYDİN ÜLGEN** 
+- Backend programlama dillerine (ör. PHP, Python) hakimiyet
+- Frontend tasarım dillerine (ör. HTML, CSS, JS) hakimiyet
+- Canva kullanarak yaratıcı ve etkileyici grafik tasarımlar oluşturma
+- İletişim becerileri ve işbirliği yeteneği
 
-Mehmet Emir ERDEM :
+**Mehmet Emir ERDEM** 
+- Backend programlama dillerine (ör. PHP, Python) hakimiyet
+- Frontend tasarım dillerine (ör. HTML, CSS, JS) hakimiyet
+- Canva kullanarak yaratıcı ve etkileyici grafik tasarımlar oluşturma
+- İletişim becerileri ve işbirliği yeteneği
 
-Enes ERGENE :
+**Enes ERGENE**
+- Frontend tasarım dillerine (ör. HTML, CSS, JS) hakimiyet
+- İletişim becerileri ve işbirliği yeteneği
 
-Buse ÇINAR :
+**Buse ÇINAR**
+- Frontend tasarım dillerine (ör. HTML, CSS, JS) hakimiyet
+- Canva kullanarak yaratıcı ve etkileyici grafik tasarımlar oluşturma
+- İletişim becerileri ve işbirliği yeteneği
 
 ### Ekip Çalışması
-1.Proje yönetimi ve koordinasyonu:
+**1.Proje yönetimi ve Koordinasyonu:** Evin AYDİN ÜLGEN, Mehmet Emir ERDEM
 
-2.Tasarım ve kullanılabilirlik:
+**2.Tasarım ve Kullanılabilirlik:** Evin AYDİN ÜLGEN, Mehmet Emir ERDEM, Buse ÇINAR, Enes ERGENE
 
-3.Front-end (kullanıcı tarafı) geliştirme:
+**3.Front-end (kullanıcı tarafı) Geliştirme:** Evin AYDİN ÜLGEN, Buse ÇINAR, Enes ERGENE
 
-4.Back-end (sunucu tarafı) geliştirme:
+**4.Back-end (sunucu tarafı) Geliştirme:** Mehmet Emir ERDEM, Evin AYDİN ÜLGEN
 
-5.Veritabanı tasarımı ve yönetimi:
+**5.Veritabanı Tasarımı ve Yönetimi:** Mehmet Emir ERDEM
 
-6.Dokümantasyon oluşturma ve Belgeleme:
+**6.Dokümantasyon Oluşturma ve Belgeleme:** Evin AYDİN ÜLGEN, Mehmet Emir ERDEM, Buse ÇINAR, Enes ERGENE
 
-7.İyileştirme önerileri ve geri bildirimler:
+**7.İyileştirme Önerileri ve Geri Bildirimler:** Evin AYDİN ÜLGEN, Mehmet Emir ERDEM, Buse ÇINAR, Enes ERGENE
 
-8.README dosyasının oluşturulması ve güncellenmesi
+**8.README dosyasının oluşturulması ve güncellenmesi:** Evin AYDİN ÜLGEN
 
 
 ## KATKIDA BULUNMA
