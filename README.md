@@ -198,6 +198,16 @@ Projemiz, ihtiyaçlar doğrultusunda sürekli adapte olabilen bir yaklaşım ben
 - Yeni pazarlama stratejileri oluşturularak, web sitesinin etkinliği artırılacak.
 
 ## EKİP ÇALIŞMASI VE KATKILAR
+### Ekip Üyeleri ve Yetkinlikleri
+Evin AYDİN ÜLGEN :
+
+Mehmet Emir ERDEM :
+
+Enes ERGENE :
+
+Buse ÇINAR :
+
+### Ekip Çalışması
 1.Proje yönetimi ve koordinasyonu:
 
 2.Tasarım ve kullanılabilirlik:
