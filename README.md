@@ -234,7 +234,7 @@ Proje geliştirme sürecinde sizin gibi yazılımcıların, yatırımcıların v
 
 2. **Dokümantasyon Geliştirme**: Projeye dökümantasyon ekleyerek kullanım kılavuzlarını, API dokümantasyonunu veya proje belgelerini güncelleyebilirsiniz.
 
-3. **Hata Bildirimi**: Projeyle ilgili tespit ettiğiniz hataları [GitHub Issue](link) üzerinden bildirebilirsiniz. Hataları detaylı bir şekilde açıklayarak, projenin geliştirilmesine yardımcı olabilirsiniz.
+3. **Hata Bildirimi**: Projeyle ilgili tespit ettiğiniz hataları [GitHub Issue](https://github.com/Grup8-Motive8Now/Motive8Now-Web-lham-Sitesi/issues) üzerinden bildirebilirsiniz. Hataları detaylı bir şekilde açıklayarak, projenin geliştirilmesine yardımcı olabilirsiniz.
 
 ### Yeni Özellikler Eklemek
 
@@ -242,7 +242,7 @@ Projeye yeni özellikler eklemek için [GitHub Pull Request](https://github.com/
 
 ### Hata Düzeltmek
 
-Projede tespit ettiğiniz hataları düzeltmek için [GitHub Issue](link) sayfasına göz atabilirsiniz. Mevcut sorunları inceleyerek, düzeltme için bir Pull Request oluşturabilirsiniz. Hata düzeltmeleri projenin kalitesini artıracak ve kullanıcı deneyimini iyileştirecektir.
+Projede tespit ettiğiniz hataları düzeltmek için [GitHub Issue](https://github.com/Grup8-Motive8Now/Motive8Now-Web-lham-Sitesi/issues) sayfasına göz atabilirsiniz. Mevcut sorunları inceleyerek, düzeltme için bir Pull Request oluşturabilirsiniz. Hata düzeltmeleri projenin kalitesini artıracak ve kullanıcı deneyimini iyileştirecektir.
 
 
 Projemize katkıda bulunmak isteyen herkesi bekliyoruz! İster kod geliştirerek, ister hata bildirimi yaparak, ister dokümantasyon geliştirerek destek verebilirsiniz. Katkılarınız projemizin başarısını daha da ileri taşımamıza yardımcı olacak.
