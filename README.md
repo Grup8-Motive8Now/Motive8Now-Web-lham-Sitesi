@@ -238,7 +238,7 @@ Proje geliştirme sürecinde sizin gibi yazılımcıların, yatırımcıların v
 
 ### Yeni Özellikler Eklemek
 
-Projeye yeni özellikler eklemek için [GitHub Pull Request](link) gönderebilirsiniz. Özellik eklemesi yapmadan önce, projeyle ilgili bir sorun bildiriminde bulunarak önerinizi tartışabilirsiniz. Daha sonra, geliştirdiğiniz özellikleri projeye eklemek için bir Pull Request açabilirsiniz.
+Projeye yeni özellikler eklemek için [GitHub Pull Request](https://github.com/Grup8-Motive8Now/Motive8Now-Web-lham-Sitesi/pulls) gönderebilirsiniz. Özellik eklemesi yapmadan önce, projeyle ilgili bir sorun bildiriminde bulunarak önerinizi tartışabilirsiniz. Daha sonra, geliştirdiğiniz özellikleri projeye eklemek için bir Pull Request açabilirsiniz.
 
 ### Hata Düzeltmek
 
